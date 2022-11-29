@@ -32,8 +32,8 @@
 
 <div>
 <a href="https://github.com/PedPacheco">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedpacheco&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedpacheco&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<img height="130em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=pedpacheco&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<img height="130em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedpacheco&show_icons=true&theme=dark#gh-dark-mode-only"/>
 </div>
 
 ## Contatos:
