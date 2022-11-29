@@ -29,12 +29,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-
-<div>
 <a href="https://github.com/PedPacheco">
-<img height="130em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=pedpacheco&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img height="130em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedpacheco&show_icons=true&theme=dark#gh-dark-mode-only"/>
-</div>
+<img height="130em"  src="https://github-readme-stats.vercel.app/api?username=pedpacheco&show_icons=true&theme=dark#gh-dark-mode-only" style="max-width: 100%;"/>
+<img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedpacheco&show_icons=true&theme=dark#gh-dark-mode-only" style="max-width: 100%;"/>
 
 ## Contatos:
 
