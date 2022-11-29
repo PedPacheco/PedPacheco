@@ -32,8 +32,8 @@
 ## Estatísticas do Github:
 
 <a href="https://github.com/PedPacheco">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=pedpacheco&show_icons=true&theme=dark#gh-dark-mode-only" style="max-width: 100%;"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedpacheco&show_icons=true&theme=dark#gh-dark-mode-only" style="max-width: 100%;"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=pedpacheco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedpacheco&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;"/>
 
 ## Contatos:
 
