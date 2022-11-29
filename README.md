@@ -6,11 +6,11 @@
 
 :house_with_garden: Sou de São José dos Campos, São Paulo
 
-:books: Atualmente estudo técnico em Informática no Senac de São José dos Campos, e acabo de finalizar meu curso na Let´s Code de desenvolvimento Web Full Stack.
+:books: Atualmente cursando Técnico em Informática no Senac de São José dos Campos e acabo de finalizar meu curso na Let´s Code de desenvolvimento Web Full Stack; Tenho estudado Next e iniciando os estudos com React Native
 
 :outbox_tray: Objetivos: Criar novos projetos e cada vez aprender mais.
 
-##Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/Html-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Css-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,8 +33,8 @@
 
 <p align="center">
   <a href="https://github.com/PedPacheco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedpacheco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"      style="max-width: 100%;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedpacheco&layout=compact&langs_count=7&theme=dracula" style="max-width:        100%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedpacheco&show_icons=true&theme=dark#gh-dark-mode-only" style="max-width: 100%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedpacheco&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only" style="max-width: 100%;"/>
 </p>
 
 ## Contatos:
