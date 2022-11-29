@@ -1,4 +1,4 @@
-## Hello World, Eu sou Pedro Pacheco <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## Hello World, Me chamo Pedro Pacheco <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 :computer: Sou um Desenvolvedor Full-Stack Junior.
 
