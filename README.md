@@ -4,7 +4,7 @@
 
 :house_with_garden: Sou de São José dos Campos, São Paulo.
 
-:books: Atualmente cursando Técnico em Informática no Senac de São José dos Campos e acabo de finalizar meu curso na Let´s Code de desenvolvimento Web Full Stack; Tenho estudado Next e iniciando os estudos com React Native.
+:books: Atualmente cursando Técnico em Informática no Senac de São José dos Campos e acabo de finalizar meu curso na Let´s Code de desenvolvimento Web Full Stack; Tenho estudado Next e Nest.
 
 :outbox_tray: Objetivos: Criar novos projetos e cada vez aprender mais.
 
